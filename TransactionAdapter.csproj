@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bank.cs" />
-    <Compile Include="IMoneyTransaction.cs" />
-    <Compile Include="MoneyTransaction.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="src\Bank.cs" />
+    <Compile Include="src\IMoneyTransaction.cs" />
+    <Compile Include="src\MoneyTransaction.cs" />
+    <Compile Include="src\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShopVendor.cs" />
+    <Compile Include="src\ShopVendor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
